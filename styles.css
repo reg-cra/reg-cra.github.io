@@ -1,9 +1,18 @@
 body {
-    background-color: crimson;
+    background-color: black;
     font-family:Arial, Helvetica, sans-serif
 
 }
 h1{
     text-align: center;
-    color:black;
+    color:whitesmoke;
+}
+h2{
+    color:whitesmoke;
+}
+h3{
+    color:whitesmoke;
+}
+p{
+    color:whitesmoke;
 }
